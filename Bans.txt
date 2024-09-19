@@ -3,30 +3,5 @@
     "id": 123,
     "reason": "Hacks",
     "ban_until": "2014-10-02"
-  },
-  {
-    "id": "5133084397",
-    "reason": "bug",
-    "ban_until": "2024-10-01"
-  },
-  {
-    "id": "1234",
-    "reason": "test",
-    "ban_until": "2030-01-01"
-  },
-  {
-    "id": "15151",
-    "reason": "fdfgdgdf",
-    "ban_until": "2044-01-01"
-  },
-  {
-    "id": 0,
-    "reason": "test",
-    "ban_until": "2030-01-01"
-  },
-  {
-    "id": 124591,
-    "reason": "test",
-    "ban_until": "2030-01-01"
   }
 ]

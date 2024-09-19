@@ -1,3 +1,12 @@
 [
-  {"id": 5133084397, "reason": "Hacks", "ban_until": "2014-10-02"}
+  {
+    "id": 5133084397,
+    "reason": "Hacks",
+    "ban_until": "2014-10-02"
+  },
+  {
+    "id": 1151251,
+    "reason": "Hacks",
+    "ban_until": "2014-10-02"
+  }
 ]

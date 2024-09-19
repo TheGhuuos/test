@@ -1,3 +1,3 @@
 [
-  {"id": 5133084397, "reason": "thug", "ban_until": "2024-10-02"}
+  {"id": 5133084397, "reason": "thugheh", "ban_until": "2024-10-02"}
 ]

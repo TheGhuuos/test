@@ -18,5 +18,10 @@
     "id": "15151",
     "reason": "fdfgdgdf",
     "ban_until": "2044-01-01"
+  },
+  {
+    "id": 0,
+    "reason": "test",
+    "ban_until": "2030-01-01"
   }
 ]

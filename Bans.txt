@@ -1,1 +1,3 @@
-hui
+[
+  {"id": 5133084397, "reason": "Exploit - test", "ban_until": "2040-10-02"}
+]

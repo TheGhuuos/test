@@ -18,5 +18,10 @@
     "id": 5133084397111,
     "reason": "CheatingTEST",
     "ban_until": "2030-10-02"
+  },
+  {
+    "id": "1000",
+    "reason": "CheatingTEST",
+    "ban_until": "2030-10-02"
   }
 ]

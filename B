@@ -1,0 +1,3 @@
+[
+  {"id": 5133084397, "reason": "banned for cheating", "ban_until": "2024-10-02"}
+]
